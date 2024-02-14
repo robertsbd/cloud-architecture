@@ -1,4 +1,4 @@
-module cloud-1
+module cloud-architecture
 
 go 1.21.6
 
